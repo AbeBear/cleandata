@@ -1,6 +1,6 @@
-Human Activity Recognition Using Smartphones
-Code to create new dataset with averaged measurements 
-subsetted by activities or subjects
+Human Activity Recognition Using Smartphones.
+
+Code to create new dataset with averaged measurements subsetted by activities or subjects
 =========================================
 Original Data can be found at the link below:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
